@@ -1,6 +1,6 @@
 ### Heey, my name is John Kenedy !!
 
-- 🔭 I’m currently working in an ecosystem to digitize and automate restaurants and cafes.
+- 🔭 I'm currently studying accessibility on Android.
 - 🌱 I’m currently learning Mobile Development - KOTLIN
 
  <div>
