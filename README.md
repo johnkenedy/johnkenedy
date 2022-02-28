@@ -1,6 +1,6 @@
 ### Heey, my name is John Kenedy !!
 
-- 🔭 I'm currently studying Android Jetpack and TDD.
+- 🔭 I'm currently studying Android and C4D.
 - 🌱 I’m currently learning Mobile Development - KOTLIN
 
  <div>
