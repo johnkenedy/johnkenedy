@@ -1,7 +1,7 @@
 ### Heey, my name is John Kenedy !!
 
-- 🔭 I'm currently studying Android and Blender.
-- 🌱 I’m currently learning Mobile Development - KOTLIN
+- 🔭 I'm currently studying Android and Norwegian.
+- 🌱 I’m currently learning Mobile Software Engineering - KOTLIN - JETPACK COMPOSE
 
  <div>
   <a href="https://github.com/johnkenedy">
