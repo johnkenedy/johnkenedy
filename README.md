@@ -1,4 +1,4 @@
-### Heey, my name is John Kenedy !!
+### Heey, I'm John Kenedy !!
 
 - 🔭 I'm currently studying Android, KMM and Norwegian.
 - 🌱 I’m currently learning Mobile Software Engineering - KOTLIN - JETPACK COMPOSE
