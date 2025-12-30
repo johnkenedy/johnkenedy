@@ -1,6 +1,6 @@
 ### Hey, I'm John Kenedy !!
 
-### I'm an **Mobile Engineer**, passionate about **Archtecture**.
+### I'm an **Mobile Engineer**, passionate about **Learning**.
 
 ---
 
