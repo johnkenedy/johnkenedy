@@ -34,19 +34,21 @@
 ## 🧰 My Toolbox
 
 **Languages & Frameworks**  
+<p align="left">
+<img src="https://img.shields.io/badge/Android-181A18?style=for-the-badge&logo=Android" alt="Android" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-181A18?style=for-the-badge&logo=JetpackCompose" alt="Jetpack Compose" />
+<img src="https://img.shields.io/badge/Kotlin-181A18?style=for-the-badge&logo=Kotlin" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Kotlin%20Multiplatform-181A18?style=for-the-badge&logo=kotlin&logoColor=purple" alt="Kotlin Multiplatform" />
+<img src="https://img.shields.io/badge/Compose%20Multiplatform-181A18?style=for-the-badge&logo=JetpackCompose&logoColor=white" alt="Compose Multiplatform" />
 
-![Android](https://img.shields.io/badge/Android-181A18?style=for-the-badge&logo=Android)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-181A18?style=for-the-badge&logo=JetpackCompose)
-![Kotlin](https://img.shields.io/badge/Kotlin-181A18?style=for-the-badge&logo=Kotlin)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-181A18?style=for-the-badge&logo=kotlin&logoColor=pruple)
-![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-181A18?style=for-the-badge&logo=JetpackCompose&logoColor=white)
-
-
+</p>
 
 **Favourite IDE's**  
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-181A18?style=for-the-badge&logo=AndroidStudio)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-181A18?style=for-the-badge&logo=IntelliJIDEA)
+<p align="left">
+<img src="https://img.shields.io/badge/Android%20Studio-181A18?style=for-the-badge&logo=AndroidStudio" alt="Android Studio" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-181A18?style=for-the-badge&logo=IntelliJIDEA" alt="IntelliJ IDEA" />
+</p>
 
 ---
 
