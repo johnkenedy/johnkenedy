@@ -1,6 +1,6 @@
 ### Hey, I'm John Kenedy !!
 
-### I'm an **MOBILE SOFTWARE ENGINEER**, passionate about **Learning**.
+### I'm an **Mobile Software Engineer**, passionate about **Learning**.
 
 ---
 
