@@ -24,9 +24,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnkenedy&theme=github_dark" height="180"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnkenedy&theme=github_dark" height="180"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnkenedy&theme=github_dark" height="180"/>
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" height="180"/>
+<br/>
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" height="180"/>
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180"/>
 </p>
 
 ---
