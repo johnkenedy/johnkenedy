@@ -31,9 +31,9 @@
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="50%"/>
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="24%"/>
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="24%"/>
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="33%"/>
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="33%"/>
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="33%"/>
 </p>
 
 ---
