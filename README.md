@@ -15,9 +15,9 @@
 ## ✨ Professional Highlights
 
 - **5+ years** of professional Android development experience.
-- **Mobile Engineer at TQI/PagBank**, focusing on Fintech ecosystems.
+- **Mobile Engineer at Aubay/Lufthansa**.
 - **Multilingual**: English (C1), Portuguese (Native), Norwegian (A2).
-- Experienced in high-scale apps like **Itaú** and **PagBank**.
+- Experienced in high-scale apps like **Itaú**, **PagBank** and **Lufthansa**.
 
 ---
 
